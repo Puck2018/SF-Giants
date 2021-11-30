@@ -1,0 +1,233 @@
+/* screen - team */
+
+.team {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  width: 1920px;
+}
+
+.team .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 172px;
+  width: 1920px;
+}
+
+.team .overlap-group1 {
+  align-items: flex-end;
+  background-color: var(--black);
+  display: flex;
+  height: 88px;
+  min-width: 1920px;
+  padding: 6px 35px;
+}
+
+.team .logo {
+  cursor: pointer;
+  height: 69px;
+  margin-bottom: 1px;
+  object-fit: cover;
+  width: 57px;
+}
+
+.team .team-1 {
+  align-self: center;
+  letter-spacing: 0;
+  margin-left: 332px;
+  margin-top: 2.0px;
+  min-height: 70px;
+  width: 155px;
+}
+
+.team .tickets {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-bottom: 1px;
+  margin-left: 89px;
+  min-height: 70px;
+  width: 227px;
+}
+
+.team .place {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 92px;
+  min-height: 70px;
+  width: 181px;
+}
+
+.team .merch {
+  align-self: center;
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 120px;
+  margin-top: 2.0px;
+  min-height: 70px;
+  width: 203px;
+}
+
+.team .october-9th-2021 {
+  letter-spacing: 0;
+  margin-left: 56px;
+  margin-top: 21px;
+  min-height: 63px;
+  width: 339px;
+}
+
+.team .flex-row {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 116.0px;
+  margin-top: 38px;
+  min-width: 1644px;
+}
+
+.team .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 694px;
+  min-width: 881px;
+}
+
+.team .flex-col-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 694px;
+  width: 397px;
+}
+
+.team .dodgers {
+  letter-spacing: 0;
+  margin-right: 37.0px;
+  min-height: 43px;
+  text-align: center;
+  width: 200px;
+}
+
+.team .x6-1 {
+  height: 68px;
+  margin-right: 33.0px;
+  margin-top: 26px;
+  width: 62px;
+}
+
+.team .name {
+  align-self: flex-start;
+  letter-spacing: 0;
+  margin-top: 36px;
+  min-height: 118px;
+  text-align: center;
+  width: 360px;
+}
+
+.team .lad-lineup {
+  letter-spacing: 0;
+  margin-right: 32.0px;
+  margin-top: 21px;
+  min-height: 60px;
+  text-align: center;
+  width: 245px;
+}
+
+.team .text-10 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  min-height: 322px;
+  width: 362px;
+}
+
+.team .final-oracle-park {
+  letter-spacing: 0;
+  margin-left: 228px;
+  margin-top: 6px;
+  min-height: 194px;
+  text-align: center;
+  width: 256px;
+}
+
+.team .flex-col-2 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 280px;
+  min-height: 694px;
+  width: 483px;
+}
+
+.team .giants {
+  letter-spacing: 0;
+  margin-left: 52px;
+  min-height: 43px;
+  text-align: center;
+  width: 254px;
+}
+
+.team .logo-1 {
+  align-self: center;
+  height: 69px;
+  margin-right: 110.0px;
+  margin-top: 6px;
+  object-fit: cover;
+  width: 57px;
+}
+
+.team .name-1 {
+  letter-spacing: 0;
+  margin-top: 27px;
+  min-height: 126px;
+  text-align: center;
+  width: 350px;
+}
+
+.team .sf-lineup {
+  letter-spacing: 0;
+  margin-left: 48px;
+  margin-top: 26px;
+  min-height: 45px;
+  text-align: center;
+  width: 258px;
+}
+
+.team .name-2 {
+  align-self: flex-end;
+  letter-spacing: 0;
+  margin-top: 14px;
+  min-height: 338px;
+  width: 463px;
+}
+
+.team .overlap-group {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  height: 79px;
+  margin-top: 97px;
+  min-width: 1920px;
+  padding: 10px 175.3px;
+}
+
+.team .line-7 {
+  height: 3px;
+  margin-top: 7.36px;
+  width: 720px;
+}
+
+.team .s-l1600-4 {
+  align-self: flex-end;
+  height: 53px;
+  margin-left: 42px;
+  object-fit: cover;
+  width: 44px;
+}
+
+.team .line-8 {
+  height: 4px;
+  margin-left: 30px;
+  margin-top: 10.03px;
+  width: 720px;
+}

@@ -1,0 +1,62 @@
+:root { 
+  --black: #000000;
+  --white: #ffffff;
+ 
+  --font-size-l: 34px;
+  --font-size-m: 30px;
+  --font-size-s: 27px;
+  --font-size-xl: 48px;
+  --font-size-xs: 25px;
+  --font-size-xxs: 24px;
+  --font-size-xxxs: 18px;
+ 
+  --font-family-fira_sans: "Fira Sans", Helvetica;
+  --font-family-roboto: "Roboto", Helvetica;
+}
+.firasans-normal-white-48px {
+  color: var(--white);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-normal-black-30px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.firasans-bold-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.firasans-normal-black-18px {
+  color: var(--black);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-xxxs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-normal-black-25px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.roboto-light-black-25px {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 300;
+}

@@ -1,0 +1,257 @@
+/* screen - media */
+
+.media {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  width: 1920px;
+}
+
+.media .overlap-group {
+  align-items: flex-end;
+  background-color: var(--black);
+  display: flex;
+  height: 88px;
+  min-width: 1920px;
+  padding: 6px 35px;
+}
+
+.media .logo {
+  cursor: pointer;
+  height: 69px;
+  margin-bottom: 1px;
+  object-fit: cover;
+  width: 57px;
+}
+
+.media .team {
+  align-self: center;
+  color: #e5e5e5;
+  cursor: pointer;
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-left: 332px;
+  margin-top: 2.0px;
+  min-height: 70px;
+  width: 155px;
+}
+
+.media .tickets {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-bottom: 1px;
+  margin-left: 89px;
+  min-height: 70px;
+  width: 227px;
+}
+
+.media .place {
+  letter-spacing: 0;
+  margin-left: 92px;
+  min-height: 70px;
+  width: 181px;
+}
+
+.media .merch {
+  align-self: center;
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 120px;
+  margin-top: 2.0px;
+  min-height: 70px;
+  width: 203px;
+}
+
+.media .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 777px;
+  margin-right: 12.0px;
+  margin-top: 93px;
+  min-width: 1810px;
+}
+
+.media .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 777px;
+  width: 656px;
+}
+
+.media .flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  height: 572px;
+  min-width: 656px;
+}
+
+.media .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 572px;
+  width: 302px;
+}
+
+.media .x1-1 {
+  height: 165px;
+  object-fit: cover;
+  width: 302px;
+}
+
+.media .x2-1 {
+  height: 157px;
+  margin-top: 36px;
+  object-fit: cover;
+  width: 302px;
+}
+
+.media .x3-1 {
+  height: 164px;
+  margin-top: 50px;
+  object-fit: cover;
+  width: 302px;
+}
+
+.media .flex-col-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 52px;
+  min-height: 558px;
+  width: 302px;
+}
+
+.media .text-6 {
+  cursor: pointer;
+  letter-spacing: 0;
+  min-height: 137px;
+  text-decoration: underline;
+  width: 302px;
+}
+
+.media .surname {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-right: 2.0px;
+  margin-top: 68px;
+  min-height: 150px;
+  text-decoration: underline;
+  width: 284px;
+}
+
+.media .text-7 {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-right: 6.0px;
+  margin-top: 51px;
+  min-height: 152px;
+  text-decoration: underline;
+  width: 288px;
+}
+
+.media .flex-row-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 163px;
+  margin-top: 42px;
+  min-width: 650px;
+}
+
+.media .x4-1 {
+  height: 162px;
+  object-fit: cover;
+  width: 302px;
+}
+
+.media .text-8 {
+  align-self: flex-end;
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 60px;
+  min-height: 154px;
+  text-decoration: underline;
+  width: 288px;
+}
+
+.media .flex-col-3 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 191px;
+  margin-top: 2px;
+  min-height: 742px;
+  width: 963px;
+}
+
+.media .overlap-group2 {
+  align-items: flex-start;
+  background-image: url(../img/5-1@1x.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  min-width: 963px;
+}
+
+.media .x5-2 {
+  height: 489px;
+  object-fit: cover;
+  width: 963px;
+}
+
+.media .text-9 {
+  color: var(--black);
+  cursor: pointer;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-l);
+  font-weight: 700;
+  letter-spacing: 0;
+  margin-top: 32px;
+  min-height: 221px;
+  text-decoration: underline;
+  width: 943px;
+}
+
+.media .span0 {
+  font-weight: 700;
+}
+
+.media .span1 {
+  font-weight: 400;
+}
+
+.media .overlap-group1 {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  height: 79px;
+  margin-top: 43px;
+  min-width: 1920px;
+  padding: 10px 175.3px;
+}
+
+.media .line-7 {
+  height: 3px;
+  margin-top: 7.36px;
+  width: 720px;
+}
+
+.media .s-l1600-4 {
+  align-self: flex-end;
+  height: 53px;
+  margin-left: 42px;
+  object-fit: cover;
+  width: 44px;
+}
+
+.media .line-8 {
+  height: 4px;
+  margin-left: 30px;
+  margin-top: 10.03px;
+  width: 720px;
+}

@@ -1,0 +1,271 @@
+/* screen - tickets */
+
+.tickets {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  width: 1920px;
+}
+
+.tickets .flex-col {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 159px;
+  width: 1920px;
+}
+
+.tickets .overlap-group {
+  background-color: var(--black);
+  height: 88px;
+  position: relative;
+  width: 1920px;
+}
+
+.tickets .merch {
+  cursor: pointer;
+  left: 1288px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 10px;
+  width: 203px;
+}
+
+.tickets .tickets-1 {
+  left: 668px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 11px;
+  width: 227px;
+}
+
+.tickets .team {
+  cursor: pointer;
+  left: 424px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 10px;
+  width: 155px;
+}
+
+.tickets .place {
+  cursor: pointer;
+  left: 987px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 12px;
+  width: 181px;
+}
+
+.tickets .logo {
+  cursor: pointer;
+  height: 69px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 57px;
+}
+
+.tickets .rectangle-5 {
+  background-color: var(--black);
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.tickets .january {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxs);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-left: 67px;
+  margin-top: 26px;
+  min-height: 45px;
+  width: 128px;
+}
+
+.tickets .flex-row {
+  align-items: flex-start;
+  display: flex;
+  height: 750px;
+  margin-right: 10.0px;
+  margin-top: 24px;
+  min-width: 1776px;
+}
+
+.tickets .flex-col-1 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  min-height: 750px;
+  width: 173px;
+}
+
+.tickets .feb-22-sat {
+  letter-spacing: 0;
+  min-height: 137px;
+  text-align: center;
+  width: 173px;
+}
+
+.tickets .feb-27-sun {
+  letter-spacing: 0;
+  margin-top: 67px;
+  min-height: 137px;
+  text-align: center;
+  width: 173px;
+}
+
+.tickets .feb-28-mon {
+  letter-spacing: 0;
+  margin-top: 58px;
+  min-height: 155px;
+  text-align: center;
+  width: 171px;
+}
+
+.tickets .march-01-tue {
+  letter-spacing: 0;
+  margin-top: 46px;
+  min-height: 150px;
+  text-align: center;
+  width: 155px;
+}
+
+.tickets .flex-col-2 {
+  align-items: flex-start;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 113px;
+  min-height: 744px;
+  width: 1063px;
+}
+
+.tickets .text-11 {
+  align-self: center;
+  height: 161px;
+  letter-spacing: 0;
+  margin-right: 3.0px;
+  width: 1044px;
+}
+
+.tickets .span1 {
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+}
+
+.tickets .text-12 {
+  letter-spacing: 0;
+  margin-left: 6px;
+  margin-top: 37px;
+  min-height: 135px;
+  width: 1002px;
+}
+
+.tickets .text-13 {
+  letter-spacing: 0;
+  margin-left: 8px;
+  margin-top: 60px;
+  min-height: 132px;
+  width: 968px;
+}
+
+.tickets .text-14 {
+  letter-spacing: 0;
+  margin-top: 69px;
+  min-height: 150px;
+  width: 1063px;
+}
+
+.tickets .flex-col-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 264px;
+  margin-top: 4px;
+  min-height: 722px;
+  width: 163px;
+}
+
+.tickets .from-80 {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-right: 7.0px;
+  min-height: 127px;
+  text-align: center;
+  text-decoration: underline;
+  width: 156px;
+}
+
+.tickets .from-42 {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-right: 1.0px;
+  margin-top: 92px;
+  min-height: 116px;
+  text-align: center;
+  text-decoration: underline;
+  width: 156px;
+}
+
+.tickets .from-74 {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 7.0px;
+  margin-top: 72px;
+  min-height: 118px;
+  text-align: center;
+  text-decoration: underline;
+  width: 156px;
+}
+
+.tickets .from-44 {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 8.0px;
+  margin-top: 90px;
+  min-height: 107px;
+  text-align: center;
+  text-decoration: underline;
+  width: 123px;
+}
+
+.tickets .overlap-group1 {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  height: 79px;
+  margin-top: 68px;
+  min-width: 1920px;
+  padding: 10px 175.3px;
+}
+
+.tickets .line-7 {
+  height: 3px;
+  margin-top: 7.36px;
+  width: 720px;
+}
+
+.tickets .s-l1600-4 {
+  align-self: flex-end;
+  height: 53px;
+  margin-left: 42px;
+  object-fit: cover;
+  width: 44px;
+}
+
+.tickets .line-8 {
+  height: 4px;
+  margin-left: 30px;
+  margin-top: 10.03px;
+  width: 720px;
+}

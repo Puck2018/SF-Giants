@@ -1,0 +1,132 @@
+/* screen - home-page */
+
+.home-page {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  overflow: hidden;
+  width: 1920px;
+}
+
+.home-page .Banner {
+  background-color: var(--black);
+  height: 88px;
+  margin-left: -1px;
+  position: relative;
+  width: 1920px;
+}
+
+.home-page .link {
+  cursor: pointer;
+  left: 1288px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 10px;
+  width: 203px;
+}
+
+.home-page .tickets {
+  left: 668px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 11px;
+  width: 227px;
+}
+
+.home-page .team {
+  cursor: pointer;
+  left: 424px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 10px;
+  width: 155px;
+}
+
+.home-page .place {
+  cursor: pointer;
+  left: 987px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 12px;
+  width: 181px;
+}
+
+.home-page .logo {
+  cursor: pointer;
+  height: 69px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 57px;
+}
+
+.home-page .rectangle-7 {
+  background-color: var(--black);
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.home-page .tickets-1 {
+  cursor: pointer;
+  left: 668px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 11px;
+  width: 227px;
+}
+
+.home-page .Bottom {
+  height: 991px;
+  margin-top: 1px;
+  position: relative;
+  width: 1920px;
+}
+
+.home-page .rectangle-4 {
+  background-color: var(--black);
+  height: 79px;
+  left: 0;
+  position: absolute;
+  top: 912px;
+  width: 1920px;
+}
+
+.home-page .s-l1600-4 {
+  height: 54px;
+  left: 937px;
+  object-fit: cover;
+  position: absolute;
+  top: 928px;
+  width: 44px;
+}
+
+.home-page .line-7 {
+  height: 3px;
+  left: 175px;
+  position: absolute;
+  top: 954px;
+  width: 720px;
+}
+
+.home-page .line-8 {
+  height: 4px;
+  left: 1011px;
+  position: absolute;
+  top: 955px;
+  width: 720px;
+}
+
+.home-page .sf-wallpaper-1 {
+  height: 920px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}

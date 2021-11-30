@@ -1,0 +1,311 @@
+/* screen - merch */
+
+.merch {
+  align-items: center;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  height: 1080px;
+  width: 1920px;
+}
+
+.merch .flex-col {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  min-height: 468px;
+  width: 1920px;
+}
+
+.merch .overlap-group {
+  height: 99px;
+  position: relative;
+  width: 1920px;
+}
+
+.merch .rectangle-3 {
+  background-color: var(--black);
+  height: 88px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1920px;
+}
+
+.merch .team {
+  color: #e5e5e5;
+  cursor: pointer;
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  left: 424px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 10px;
+  width: 169px;
+}
+
+.merch .merch-1 {
+  left: 1288px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 10px;
+  width: 256px;
+}
+
+.merch .tickets {
+  cursor: pointer;
+  left: 668px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 11px;
+  width: 227px;
+}
+
+.merch .place {
+  cursor: pointer;
+  left: 987px;
+  letter-spacing: 0;
+  position: absolute;
+  top: 12px;
+  width: 181px;
+}
+
+.merch .logo {
+  cursor: pointer;
+  height: 69px;
+  left: 35px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 57px;
+}
+
+.merch .merchandise {
+  color: var(--black);
+  font-family: var(--font-family-fira_sans);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  margin-right: 50.0px;
+  margin-top: 6px;
+  min-height: 71px;
+  width: 412px;
+}
+
+.merch .flex-row {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 8.0px;
+  margin-top: 24px;
+  min-width: 1674px;
+}
+
+.merch .giants-hoodie-2 {
+  cursor: pointer;
+  height: 268px;
+  object-fit: cover;
+  width: 294px;
+}
+
+.merch .giants-hat-5 {
+  height: 268px;
+  margin-left: 184px;
+  object-fit: cover;
+  width: 295px;
+}
+
+.merch .giants-jersey-2 {
+  height: 268px;
+  margin-left: 165px;
+  object-fit: cover;
+  width: 295px;
+}
+
+.merch .giants-lanyard-2 {
+  height: 268px;
+  margin-left: 147px;
+  object-fit: cover;
+  width: 294px;
+}
+
+.merch .flex-row-1 {
+  align-items: flex-start;
+  display: flex;
+  height: 459px;
+  margin-left: 64.0px;
+  margin-top: 12px;
+  min-width: 1686px;
+}
+
+.merch .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 1px;
+  min-height: 439px;
+  width: 295px;
+}
+
+.merch .surname {
+  cursor: pointer;
+  letter-spacing: 0;
+  min-height: 61px;
+  text-align: center;
+  width: 246px;
+}
+
+.merch .thumb-2 {
+  height: 268px;
+  margin-top: 31px;
+  object-fit: cover;
+  width: 295px;
+}
+
+.merch .surname-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-top: 18px;
+  min-height: 61px;
+  text-align: center;
+  width: 246px;
+}
+
+.merch .flex-col-2 {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-left: 169px;
+  margin-top: 1px;
+  min-height: 446px;
+  width: 295px;
+}
+
+.merch .surname-2 {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-right: 11px;
+  min-height: 61px;
+  text-align: center;
+  width: 245px;
+}
+
+.merch .giants-shirt-2 {
+  height: 268px;
+  margin-top: 31px;
+  object-fit: cover;
+  width: 295px;
+}
+
+.merch .text-2 {
+  align-self: center;
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-left: 30.0px;
+  margin-top: 33px;
+  min-height: 53px;
+  text-align: center;
+  width: 169px;
+}
+
+.merch .flex-col-3 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: 168px;
+  margin-top: 1px;
+  min-height: 452px;
+  width: 295px;
+}
+
+.merch .text-4 {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-right: 5.0px;
+  min-height: 61px;
+  text-align: center;
+  width: 256px;
+}
+
+.merch .thumb-1-2 {
+  height: 268px;
+  margin-top: 31px;
+  object-fit: cover;
+  width: 295px;
+}
+
+.merch .text-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-right: 2.0px;
+  margin-top: 39px;
+  min-height: 53px;
+  text-align: center;
+  width: 163px;
+}
+
+.merch .flex-col-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 169px;
+  min-height: 459px;
+  width: 295px;
+}
+
+.merch .text-5 {
+  cursor: pointer;
+  letter-spacing: 0;
+  min-height: 53px;
+  text-align: center;
+  width: 185px;
+}
+
+.merch .giants-slippers-2 {
+  height: 268px;
+  margin-top: 40px;
+  object-fit: cover;
+  width: 295px;
+}
+
+.merch .text-3 {
+  align-self: center;
+  cursor: pointer;
+  letter-spacing: 0;
+  margin-right: 3.0px;
+  margin-top: 45px;
+  min-height: 53px;
+  text-align: center;
+  width: 222px;
+}
+
+.merch .overlap-group1 {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  height: 79px;
+  margin-top: 62px;
+  min-width: 1920px;
+  padding: 10px 175.3px;
+}
+
+.merch .line-7 {
+  height: 3px;
+  margin-top: 7.36px;
+  width: 720px;
+}
+
+.merch .s-l1600-4 {
+  align-self: flex-end;
+  height: 53px;
+  margin-left: 42px;
+  object-fit: cover;
+  width: 44px;
+}
+
+.merch .line-8 {
+  height: 4px;
+  margin-left: 30px;
+  margin-top: 10.03px;
+  width: 720px;
+}
